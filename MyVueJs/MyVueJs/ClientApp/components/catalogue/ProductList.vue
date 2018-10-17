@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.products {
+.product {
     border: 3px solid #eee;
     img,
     h2 {

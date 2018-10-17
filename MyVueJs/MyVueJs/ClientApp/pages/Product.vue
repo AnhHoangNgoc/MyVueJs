@@ -34,11 +34,3 @@ export default {
     }
 }
 </script>
-
-<style>
-    .product {
-        font-size: 16px;
-        font-weight: bold;
-        color: teal;
-    }
-</style>
